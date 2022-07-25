@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Project4
-//
-//  Created by TwoStraws on 13/08/2016.
-//  Copyright © 2016 Paul Hudson. All rights reserved.
-//
+
 
 import UIKit
 
